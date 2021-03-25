@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1616544300752" clover="3.2.0">
+  <project timestamp="1616544300753" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="17" coveredelements="17" complexity="0" loc="17" ncloc="17" packages="1" files="3" classes="3"/>
+    <file name="Category.js" path="C:\OnlineClothingStore\Backend\models\Category.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="Post.js" path="C:\OnlineClothingStore\Backend\models\Post.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="3" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+    </file>
+    <file name="User.js" path="C:\OnlineClothingStore\Backend\models\User.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
